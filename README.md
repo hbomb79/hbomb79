@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-My name is Harry and I'm an graduate Software Engineer in Auckland, NZ - currently working on Geneious Prime/Biologics with a brilliant team of people at Biomatters, NZ.
+My name is Harry and I'm a BInfSc graduate currently working on Geneious Prime/Biologics with a brilliant team of people at Biomatters, Auckland, New Zealand.
 
 Most of my experience lies in Lua, Java, C/C++, Ruby, Python, PHP, Go, JavaScript, and TypeScript (including various web stacks/frameworks such as Ruby on Rails, Svelte, AngularJS and RxJS).
 
